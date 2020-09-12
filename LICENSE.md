@@ -1,6 +1,6 @@
 # Instructional Material
 
-All Git-and-Github-for-R-users repository instructional material is
+All Vancouver Datajam 2020 github workshop repository instructional material is
 made available under the **Creative Commons Attribution 2.5 Canada License** ([CC BY 2.5 CA](https://creativecommons.org/licenses/by/2.5/ca/)). 
 
 This is a human-readable summary of (and not a substitute for) the license, which is available in the following languages: 
