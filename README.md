@@ -3,7 +3,7 @@ author: Raissa Philiber</br>
 event: [Vancouver Datajam 2020](https://vancouverdatajam.ca/)
 
 ## useful set-up
-- [Notes to follow-along with]()
+- [Notes to follow-along with](https://github.com/Vancouver-Datajam/gitworkshop/blob/master/git_presentation.Rmd)
 - [Installing Git](https://carpentries.github.io/workshop-template/#git)
 - [Sign-up for a Github account](https://github.com/)
 
