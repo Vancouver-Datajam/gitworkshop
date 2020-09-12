@@ -1,9 +1,9 @@
-# Git and Github for R users
-author: Tiffany Timbers</br>
-event: [Git and Github for R users - a presentation for R Ladies Vancouver](https://www.meetup.com/R-Ladies-Vancouver/events/251316571/)
+# Vancouver Datajam 2020 - Git and Github workshop
+author: Raissa Philiber</br>
+event: [Vancouver Datajam 2020](https://vancouverdatajam.ca/)
 
 ## useful set-up
-- [Notes to follow-along with](https://github.com/ttimbers/Git-and-Github-for-R-users/blob/master/git_presentation.Rmd)
+- [Notes to follow-along with]()
 - [Installing Git](https://carpentries.github.io/workshop-template/#git)
 - [Sign-up for a Github account](https://github.com/)
 
