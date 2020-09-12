@@ -8,5 +8,5 @@ event: [Vancouver Datajam 2020](https://vancouverdatajam.ca/)
 - [Sign-up for a Github account](https://github.com/)
 
 ## additional Git and Github resources
-- [Software Carpentries Git cheat sheet](http://swcarpentry.github.io/git-novice/reference/)
+- [Software Carpentries Git cheat sheet](https://swcarpentry.github.io/git-novice/reference)
 - [Jenny Bryan's Happy Git and GitHub for the useR book](http://happygitwithr.com/)
